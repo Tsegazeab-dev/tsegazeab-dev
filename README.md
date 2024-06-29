@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Tsegazeab 👋
 
-<!--
-**Tsegazeab-dev/tsegazeab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Logo](https://img.shields.io/badge/TM-Dev-blue) 💻
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate [your profession, e.g., software developer, data scientist] with a love for [your interests, e.g., building scalable web applications, analyzing data].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN stack
+- 📫 How to reach me: [tsegazeab.dev@gmail.com]
+
+## Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+<!-- Add more skills as badges -->
+
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsegazeab-dev&layout=compact&theme=radical)
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/tsegazeab-mengstu)
